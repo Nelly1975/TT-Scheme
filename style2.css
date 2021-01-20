@@ -1,0 +1,118 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+}
+
+.container {
+    padding: 50px;
+    background-image: url(Images/kisspng-military-camouflage-multi-scale-camouflage-clip-ar-camo-anniversary-cliparts-5aab01cd803f64.3719511515211565575253.png);
+
+}
+
+input[type=text],
+input[type=password],
+textarea {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+
+input[type=text]:focus,
+input[type=password]:focus {
+    background-color: orange;
+    outline: none;
+}
+
+div {
+    padding: 10px 0;
+}
+
+hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+}
+
+.registerbtn {
+    background-color: #3d457e;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+.registerbtn:hover {
+    opacity: 1;
+    background-color: #afaf34;
+}
+
+
+
+
+main {
+
+    font-family: sans-serif;
+    background-color: #87a388;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+
+
+}
+h1 {
+    
+    text-decoration: underline;
+}
+
+.cards {
+
+    font-family: sans-serif;
+    padding: inherit;
+
+
+}
+
+.card1 {
+
+    background-color: #87a388;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+
+.card2 {
+
+    background-color: #87a388;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.card3 {
+
+    background-color: #87a388;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+footer p {
+    text-align: center;
+    font-size: 100%;
+    color: #1d1a1a;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
